@@ -1,0 +1,15 @@
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\bin\Debug\net8.0\WpfLoadfilejson_DAO.deps.json
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\bin\Debug\net8.0\WpfLoadfilejson_DAO.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\bin\Debug\net8.0\WpfLoadfilejson_DAO.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.csproj.AssemblyReference.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.AssemblyInfoInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.AssemblyInfo.cs
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.csproj.CoreCompileInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadf.E004F009.Up2Date
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\refint\WpfLoadfilejson_DAO.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\WpfLoadfilejson_DAO.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_DAO\obj\Debug\net8.0\ref\WpfLoadfilejson_DAO.dll

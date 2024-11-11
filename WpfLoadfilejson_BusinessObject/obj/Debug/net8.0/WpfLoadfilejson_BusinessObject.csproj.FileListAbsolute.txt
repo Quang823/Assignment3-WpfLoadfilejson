@@ -1,0 +1,11 @@
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.deps.json
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.AssemblyInfoInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.AssemblyInfo.cs
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.csproj.CoreCompileInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\refint\WpfLoadfilejson_BusinessObject.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\WpfLoadfilejson_BusinessObject.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_BusinessObject\obj\Debug\net8.0\ref\WpfLoadfilejson_BusinessObject.dll

@@ -1,0 +1,76 @@
+﻿<Window x:Class="WpfLoadfilejson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Student Management" Height="450" Width="800" 
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Background="#F3F4F6">
+
+    <StackPanel Background="#FFFFFF" Width="760" HorizontalAlignment="Center" VerticalAlignment="Center" Height="394">
+
+        <!-- Header -->
+        <TextBlock Text="Student Management" 
+                   FontSize="24" FontWeight="Bold" 
+                   Foreground="#2C3E50" Margin="0,10,0,20" 
+                   HorizontalAlignment="Center" />
+
+        <!-- File Selection Section -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <Button Content="Browse JSON File" 
+                    Click="BrowseButton_Click" Width="150" 
+                    Background="#4CAF50" Foreground="White" 
+                    FontWeight="Bold" BorderThickness="0" 
+                    Padding="5" Cursor="Hand" 
+                    HorizontalAlignment="Left" />
+
+            <TextBox x:Name="txtFileName" Width="500" 
+                     IsReadOnly="True" VerticalAlignment="Center" 
+                     Margin="10,0,0,0" Background="#E8F0FE" 
+                     Foreground="#2C3E50" FontSize="14" 
+                     BorderBrush="#B0BEC5" BorderThickness="1" 
+                     Padding="5" />
+        </StackPanel>
+        <DataGrid x:Name="StudentDataGrid" AutoGenerateColumns="False"
+          HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+          Background="#FFFFFF" 
+          AlternatingRowBackground="#F3F4F6" 
+          HeadersVisibility="Column"
+          GridLinesVisibility="Horizontal" 
+          Foreground="#2C3E50" 
+          BorderThickness="1" BorderBrush="#D1D5DB"
+          RowHeight="35" FontSize="14"
+          ColumnHeaderHeight="40" 
+          HorizontalGridLinesBrush="#E0E0E0">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="StudentId" Binding="{Binding StudentId}" Width="Auto" MinWidth="100"/>
+                <DataGridTextColumn Header="StudentName" Binding="{Binding StudentName}" Width="*" MinWidth="150"/>
+                <DataGridTextColumn Header="Major" Binding="{Binding Major}" Width="*" MinWidth="150"/>
+                <DataGridTextColumn Header="AcademicYear" Binding="{Binding AcademicYear}" Width="Auto" MinWidth="100"/>
+            </DataGrid.Columns>
+
+            <!-- DataGrid Column Header Style -->
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#4CAF50"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="Padding" Value="5"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <!-- DataGrid Cell Style -->
+            <DataGrid.CellStyle>
+                <Style TargetType="DataGridCell">
+                    <Setter Property="Padding" Value="5"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.CellStyle>
+        </DataGrid>
+        <!-- DataGrid Section -->
+
+    </StackPanel>
+</Window>

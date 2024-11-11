@@ -1,0 +1,17 @@
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_Repo.deps.json
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_Repo.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_Repo.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_DAO.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_DAO.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\bin\Debug\net8.0\WpfLoadfilejson_BusinessObject.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.csproj.AssemblyReference.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.AssemblyInfoInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.AssemblyInfo.cs
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.csproj.CoreCompileInputs.cache
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadf.E8414C5E.Up2Date
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\refint\WpfLoadfilejson_Repo.dll
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\WpfLoadfilejson_Repo.pdb
+C:\PRN212_Assignment3\WpfLoadfilejson_Repo\obj\Debug\net8.0\ref\WpfLoadfilejson_Repo.dll

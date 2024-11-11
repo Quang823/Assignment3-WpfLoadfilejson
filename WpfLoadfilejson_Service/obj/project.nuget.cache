@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSj2iTfSck8u12N8ZgzOHtkZHu1MS1HV9umkvA2v3MeX3ecAXPM2uLs3/IILQ7+shf1+0EMPhjwyJZBLr2eEIg==",
+  "success": true,
+  "projectFilePath": "C:\\PRN212_Assignment3\\WpfLoadfilejson_Service\\WpfLoadfilejson_Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

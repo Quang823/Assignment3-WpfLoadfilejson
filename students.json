@@ -1,0 +1,32 @@
+[
+    {
+        "StudentId": "S001",
+        "StudentName": "Alice Nguyen",
+        "Major": "Computer Science",
+        "AcademicYear": 2023
+    },
+    {
+        "StudentId": "S002",
+        "StudentName": "Bob Tran",
+        "Major": "Mechanical Engineering",
+        "AcademicYear": 2022
+    },
+    {
+        "StudentId": "S003",
+        "StudentName": "Charlie Le",
+        "Major": "Business Administration",
+        "AcademicYear": 2024
+    },
+    {
+        "StudentId": "S004",
+        "StudentName": "David Pham",
+        "Major": "Electrical Engineering",
+        "AcademicYear": 2021
+    },
+    {
+        "StudentId": "S005",
+        "StudentName": "Eva Hoang",
+        "Major": "Mathematics",
+        "AcademicYear": 2023
+    }
+]
